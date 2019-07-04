@@ -1,0 +1,26 @@
+namespace  cohesion.participant
+
+abstract participant cohesionParticipant identified by email {
+  
+  o String          nom
+  o String          prenom
+  o String          entite
+  o String          email
+  o String          competences
+  o String          status
+
+
+}
+
+participant cohesionReferent extends cohesionParticipant {
+  
+}
+
+participant cohesionAgent extends cohesionParticipant {
+  // o String[]        competences
+}
+
+participant cohesionAdmin extends cohesionParticipant {
+  
+}
+

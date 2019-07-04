@@ -1,0 +1,24 @@
+namespace cohesion.competence
+
+import cohesion.participant.cohesionParticipant
+
+asset Competence identified by nom {
+
+  o   String                nom
+  o   Integer               note
+
+}
+
+transaction CreateCompetence {
+
+  o   String                nom
+}
+
+transaction CertifierCompetence {
+  o   String                competenceNom
+  o   Integer               recompense
+}
+
+event CompetenceCreated {
+    o   String      nom
+}

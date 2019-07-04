@@ -1,0 +1,37 @@
+namespace cohesion.mission
+
+import cohesion.participant.cohesionParticipant
+
+asset Mission identified by titre {
+
+  o   String                username
+  o   String                email
+  o   String                Entité
+  o   String                titre
+  o   String                competence
+  o   Integer               nombre
+  o   DateTime              start
+  o   DateTime              end
+  o   String                phone_notifications
+  o   String                textarea
+
+
+}
+
+transaction CreateMission {
+
+  o   String                username
+  o   String                email
+  o   String                Entité
+  o   String                titre
+  o   String                competence
+  o   Integer               nombre
+  o   DateTime              start
+  o   DateTime              end
+  o   String                phone_notifications
+  o   String                textarea
+}
+
+event MissionCreated {
+  o   String                titre
+}
