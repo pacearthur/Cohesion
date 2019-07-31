@@ -5,4 +5,4 @@ To realize a solution to this use case we were instructed to use Hyperledger. Hy
 
 ![github-small](https://user-images.githubusercontent.com/33637884/62209072-d61aeb00-b398-11e9-8f8e-ec99ce1c25db.png)
 ![github-small](https://user-images.githubusercontent.com/33637884/62209164-1e3a0d80-b399-11e9-8bc8-d2050e4faf9b.png)
-![github-small]()
+![github-small](https://user-images.githubusercontent.com/33637884/62209187-33af3780-b399-11e9-881f-995187675156.png)
