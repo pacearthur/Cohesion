@@ -4,5 +4,5 @@ Achieve a trusted "place of competence" using the blockchain. The idea was to cr
 To realize a solution to this use case we were instructed to use Hyperledger. Hyperledger is a private, open source blockchain. It is the most complete private blockchain on the market, but it is also one of the most complex to deploy.
 
 ![github-small](https://user-images.githubusercontent.com/33637884/62209072-d61aeb00-b398-11e9-8f8e-ec99ce1c25db.png)
-![github-small]()
+![github-small](https://user-images.githubusercontent.com/33637884/62209164-1e3a0d80-b399-11e9-8bc8-d2050e4faf9b.png)
 ![github-small]()
